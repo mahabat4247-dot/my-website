@@ -1,0 +1,6 @@
+git status
+git diff
+git add index.html
+git commit -m "Add contact section"
+git push -u origin feature-contact
+
